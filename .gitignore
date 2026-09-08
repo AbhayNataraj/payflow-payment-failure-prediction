@@ -1,0 +1,16 @@
+# The uncompressed dataset is 40 MB - the repo ships the .csv.gz instead.
+payments_ab_failure_200k.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
