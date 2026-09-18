@@ -1,6 +1,10 @@
 # The uncompressed dataset is 40 MB - the repo ships the .csv.gz instead.
 payments_ab_failure_200k.csv
 
+# Kept locally, not published
+EVALUATION_AND_INTERVIEW_PREP.md
+LICENSE
+
 # Python
 __pycache__/
 *.py[cod]
